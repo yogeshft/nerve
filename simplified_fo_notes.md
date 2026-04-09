@@ -613,7 +613,7 @@ Find the **ATM strike**
 Example: around 23850
 
 ### Step 5
-Look at CE and PE LTP near ATM
+Look at the call option price and put option price near the at-the-money strike
 
 ### Step 6
 Look at OI near important strikes
